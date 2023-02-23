@@ -1,4 +1,5 @@
-# StarkExpress: STARK 101 Workshop at SINFO   
+# StarkExpress: STARK 101
+## SINFO Workshop
 Time: 28th of February of 2023 at 17:30 GMT (duration 90 minutes)  
 Place: Room 1  
 
