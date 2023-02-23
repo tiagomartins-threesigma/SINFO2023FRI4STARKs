@@ -6,7 +6,7 @@ Explore the exciting potential of ZK-STARKs, a new area of cryptography that ena
 Discover the revolutionary potential of the FRI method, which has been called a breakthrough for allowing the construction of ZK-STARKs with much shorter proof sizes. Get a hands-on experience in implementing the FRI method, including its optimization techniques.
 This workshop is perfect for developers, researchers, and cryptography enthusiasts looking to expand their knowledge in the field. With a mix of theoretical presentations, practical demonstrations, and hands-on exercises, you'll be able to dive deep into the world of ZK-STARKs and FRI.
 Remember to bring your laptop with:
-- Python installed (preferably version 3.10)
+- Python installed (preferably version 3.10)  
 And the essential libraries pre-installed to fully participate in the hands-on portion of the workshop:
 - numpy
 - galois
