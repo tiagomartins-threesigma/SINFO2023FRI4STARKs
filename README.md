@@ -10,5 +10,6 @@ Remember to bring your laptop with:
 
 And the essential libraries pre-installed to fully participate in the hands-on portion of the workshop:
 - numpy
-- galois
+- galois  
+
 With everyone ready to go, we can ensure a seamless and productive learning experience for all attendees. Don't miss this opportunity, join us now!
