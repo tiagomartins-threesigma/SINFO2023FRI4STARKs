@@ -7,6 +7,7 @@ Discover the revolutionary potential of the FRI method, which has been called a 
 This workshop is perfect for developers, researchers, and cryptography enthusiasts looking to expand their knowledge in the field. With a mix of theoretical presentations, practical demonstrations, and hands-on exercises, you'll be able to dive deep into the world of ZK-STARKs and FRI.
 Remember to bring your laptop with:
 - Python installed (preferably version 3.10)  
+
 And the essential libraries pre-installed to fully participate in the hands-on portion of the workshop:
 - numpy
 - galois
