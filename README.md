@@ -1,7 +1,7 @@
 # SINFO 2023 FRI 4 STARKs
-For the StarkExpress: STARK 101 Workshop at SINFO 
-Time: 28th of February of 2023 at 17:30 GMT (duration 90 minutes) 
-Place: Room 1
+For the StarkExpress: STARK 101 Workshop at SINFO   
+Time: 28th of February of 2023 at 17:30 GMT (duration 90 minutes)  
+Place: Room 1  
 
 Unlock the secrets of the cutting-edge world of cryptography at our "FRI for ZK-STARKs" workshop! Join us for an immersive and hands-on journey into the world of zero-knowledge succinct transparent argument of knowledge (ZK-STARK) and the FFT (Fast Fourier Transform) based FRI (Fast Reed-Solomon Interactive Oracle Proofs of Proximity).
 
